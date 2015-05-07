@@ -1,0 +1,29 @@
+{
+  "name": "poster.js",
+  "version": "0.0.0",
+  "description": "Post stuff get liked get commented",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/akoskaaa/poster.js.git"
+  },
+  "keywords": [
+    "post",
+    "comment"
+  ],
+  "author": "Akos Hochrein",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/akoskaaa/poster.js/issues"
+  },
+  "homepage": "https://github.com/akoskaaa/poster.js#readme",
+  "dependencies": {
+    "express": "^4.12.3"
+  },
+  "engines": {
+    "iojs": "1.1.x"
+  }
+}
